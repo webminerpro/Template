@@ -474,7 +474,7 @@ $(function(){
 		$("#featured").owlCarousel({
 			items: 1,
 			dots: false,
-			// autoplay: true,
+			autoplay: true,
 			loop: true
 		});		
 	}
